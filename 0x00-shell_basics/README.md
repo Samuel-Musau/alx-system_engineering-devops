@@ -4,3 +4,4 @@ long list
 more files
 first_directory
 move_file
+dirdeletion
